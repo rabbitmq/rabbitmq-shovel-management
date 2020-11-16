@@ -1,5 +1,12 @@
 # RabbitMQ Shovel Management Plugin
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_shovel_management](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_shovel_management).
+All issues have been transferred.
+
+## Overview
+
 Adds information on shovel status to the management plugin. Build it
 like any other plugin.
 
